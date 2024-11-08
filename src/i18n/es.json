@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "tarot": {
+      "title": "Tarot",
+      "consultations": "Consultas de Tarot",
+      "information": "Información de Tarot"
+    },
+    "astrology": {
+      "title": "Astrología",
+      "consultations": "Consultas Astrológicas",
+      "information": "Información Astrológica"
+    },
+    "horoscope": {
+      "title": "Horóscopo",
+      "daily": "Horóscopo Diario",
+      "signs": "Signos del Zodiaco"
+    },
+    "love": {
+      "title": "Amor",
+      "consultations": "Consultas de Amor",
+      "information": "Información sobre Amor"
+    },
+    "numerology": {
+      "title": "Numerología",
+      "calculations": "Cálculos Numerológicos",
+      "information": "Información Numerológica"
+    },
+    "esoterism": {
+      "title": "Esoterismo",
+      "divination": "Interpretación y Adivinación",
+      "rituals": "Hechizos y Rituales"
+    }
+  }
+}
